@@ -1,0 +1,5 @@
+/app: contiene tutte le route, i componenti e la logica per l'applicazione, è qui che si lavorerà principalmente.
+/app/lib: contiene le funzioni utilizzate nell'applicazione, ad esempio le funzioni di utilità riutilizzabili e le funzioni di recupero dei dati.
+/app/ui: contiene tutti i componenti dell'interfaccia utente per l'applicazione, ad esempio schede, tabelle e moduli. Per risparmiare tempo, abbiamo pre-disegnato questi componenti per te.
+/public: contiene tutte le risorse statiche per l'applicazione, ad esempio le immagini.
+/scripts: contiene uno script di seeding che verrà utilizzato per popolare il database in un capitolo successivo.
